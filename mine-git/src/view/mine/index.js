@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class sonson extends Component {
+export default class index extends Component {
     render() {
         return (
             <div>
-                sonson
+                个人中心
             </div>
         )
     }

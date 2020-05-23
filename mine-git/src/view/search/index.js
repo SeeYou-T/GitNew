@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class erzi extends Component {
+export default class index extends Component {
     render() {
         return (
             <div>
-                erzi
+                搜索
             </div>
         )
     }

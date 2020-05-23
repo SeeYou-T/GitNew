@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class zhangsan extends Component {
+export default class index extends Component {
     render() {
         return (
             <div>
-                zhangsan 
+                loading
             </div>
         )
     }
